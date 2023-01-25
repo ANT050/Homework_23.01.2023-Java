@@ -22,7 +22,7 @@
 
 <img src="Images\Task_1.jpg" height="37" width="404"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_23.01.2023-Java/blob/main/Task_1/Task_1.java "Открыть")
 
 ---
 
@@ -32,7 +32,7 @@
 
 **Результат:**
 
-Запись в файл:
+Файл Task_2.txt содержит следующие записи:
 
 <img src="Images\Task_2.2.jpg" height="132" width="341"/>
 
@@ -40,7 +40,7 @@
 
 <img src="Images\Task_2.jpg" height="147" width="186"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_23.01.2023-Java/blob/main/Task_2/Task_2.java "Открыть")
 
 ---
 
@@ -50,15 +50,15 @@
 
 **Результат:**
 
-Запись в файл:
+Файл Task_2.txt содержит следующие записи:
 
-<img src="Images\Task_2.2.jpg" height="147" width="186"/>
+<img src="Images\Task_2.2.jpg" height="132" width="341"/>
 
 Чтение из файла:
 
 <img src="Images\Task_3.jpg" height="144" width="175"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_23.01.2023-Java/blob/main/Task_3/Task_3.java "Открыть")
 
 ---
 
@@ -68,15 +68,15 @@
 
 **Результат:**
 
-Запись в файл:
+Файл Task_2.txt содержит следующие записи:
 
-<img src="Images\Task_2.2.jpg" height="147" width="186"/>
+<img src="Images\Task_2.2.jpg" height="132" width="341"/>
 
 Чтение из файла:
 
 <img src="Images\Task_4.jpg" height="176" width="305"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_23.01.2023-Java/blob/main/Task_4/Task_4.java "Открыть")
 
 ---
 
